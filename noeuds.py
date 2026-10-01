@@ -1,7 +1,7 @@
 import numpy as np
 
 class Noeud:
-    """Classe représentant un noeud d'un arbre.
+    """Classe représentant un noeud dans un arbre.
     Attributs:----------- valeur : str | float | int
     La valeur du noeud, qui peut être une constante, une variable ou une
     opération.- enfants : list[Noeud]
